@@ -14,8 +14,10 @@ $num = rand(0,count($json->data));
 $url = $json->data[$num]->images->original -> url;
 
 
-
-$wf -> result (time(),$url, "search Giphy for $searchWord","$url", 'icon.png');
+if(count($json->data)==0)
+    $wf -> result (time(),$url, "no result","$url", 'icon.png');
+else
+    $wf -> result (time(),$url, "search Giphy for $searchWord","$url", 'icon.png');
 
 
 echo $wf->toxml();
