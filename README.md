@@ -16,7 +16,7 @@ Alfred workflow to fetch some gif animation file from Giphy.
 
 
 # how to use 
-[Download](./gif.alfredworkflow)
+[Download](./gif.alfredworkflow?raw=ture)
 
 ![img1](./img/cap1.jpg)
 ##### If you'd like to random gif image,  
