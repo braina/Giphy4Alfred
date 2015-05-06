@@ -7,6 +7,7 @@ Alfred workflow to fetch some gif animation file from Giphy.
 
 
 
+
 ## This version has some problems
 - when you retype "gif", maybe the thumbnail is wrong.  
 - if you type some keywords for search gif in Giphy , for example "gif cat", it take long time to get accurate results.  
@@ -15,6 +16,8 @@ Alfred workflow to fetch some gif animation file from Giphy.
 
 
 # how to use 
+[Download](./gif.alfredworkflow)
+
 ![img1](./img/cap1.jpg)
 ##### If you'd like to random gif image,  
 1. type "gif"  
