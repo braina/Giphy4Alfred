@@ -1,4 +1,4 @@
-# Getgif-from-Giphy
+# Getgifimage-from-Giphy
 Alfred workflow to fetch some gif animation file from Giphy.
 
 
@@ -31,3 +31,7 @@ Alfred workflow to fetch some gif animation file from Giphy.
 2. wait a minutes  
 
 
+
+Enter : Copy URL to clipboard and Paste automatically  
+Shift + Enter : Copy URL in Markdown to clipboard and Paste automatically  
+Control + Enter : Open URL in your browser
