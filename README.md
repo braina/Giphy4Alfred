@@ -11,7 +11,7 @@ Alfred workflow to fetch some gif animation file from Giphy.
 ## This version has some problems
 - when you retype "gif", maybe the thumbnail is wrong.  
 - if you type some keywords for search gif in Giphy , for example "gif cat", it take long time to get accurate results.  
-
+  - if title shows correctly, its URL is not wrong.
 
 
 
