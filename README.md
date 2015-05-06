@@ -19,14 +19,14 @@ Alfred workflow to fetch some gif animation file from Giphy.
 [Download](./gif.alfredworkflow?raw=ture)
 
 ![img1](./img/cap1.jpg)
-##### If you'd like to random gif image,  
+##### If you'd like to get random gif image,  
 1. type "gif"  
 2. wait a few minutes    
 
 
 
 ![img2](./img/cap2.jpg)
-##### If you'd like to some gif image to search,  
+##### If you'd like to search some gif image,  
 1. type "gif {query}"  
 2. wait a minutes  
 
