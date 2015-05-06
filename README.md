@@ -1,4 +1,4 @@
-# Getgifimage-from-Giphy
+# Giphy4alfred
 Alfred workflow to fetch some gif animation file from Giphy.
 
 
