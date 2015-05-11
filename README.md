@@ -34,4 +34,4 @@ Alfred workflow to fetch some gif animation file from Giphy.
 
 Enter : Copy URL to clipboard and Paste automatically  
 Shift + Enter : Copy URL in Markdown to clipboard and Paste automatically  
-Control + Enter : Open URL in your browser
+Cmd + Enter : Open URL in your browser
